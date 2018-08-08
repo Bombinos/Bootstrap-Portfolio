@@ -1,0 +1,181 @@
+
+
+.navbar-brand {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background: #4aaaa5;
+    padding: 10px 10px 10px 10px;
+    margin-left: 175px;
+    margin-right: 625px;
+    font-size: x-large;
+    
+    }
+    
+
+
+body {
+    margin: 0px;
+    background-image: url("../images/ignasi_pattern_s.png");
+    background-repeat: repeat;
+}
+
+.about {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.portfolio {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    color: #777777;
+    right: 360px;
+    width: 100px;
+    text-align: center;
+    height: 16px;
+    background: #f8f9fa;
+    top: 25px;
+    position: fixed;
+    border-style: solid;
+    border-color: #cccccc;
+    border-top: hidden;
+    border-right: hidden;
+    border-bottom: hidden;
+    border-width: 1px;
+}
+
+.contact {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    color: #777777;
+    right: 260px;
+    width: 100px;
+    text-align: center;
+    height: 16px;
+    background: #f8f9fa;
+    top: 25px;
+    position: fixed;
+    border-style: solid;
+    border-color: #cccccc;
+    border-top: hidden;
+    border-right: hidden;
+    border-bottom: hidden;
+    border-width: 1px;
+    
+}
+
+h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    margin: 0px;
+    height: 50px;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+footer {
+    width: 1600px;
+    height: 50px;
+    background: #666666;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 5;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    border-top-width: 5px;
+}
+
+p {
+    
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    background-color: #ffffff;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    text-align: justify;
+    
+}
+
+.photo {
+    float: left;
+}
+
+input { 
+    width: 100%;
+    color:#dddddd;
+    height: 15%;
+    border-width: 2px;
+    padding: 10px 10px 10px 5px;
+    margin: 0px 0px 20px 0px;
+
+}
+
+label {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border-color: #dddddd;
+}
+
+
+
+button {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: none;
+    height: 30px;
+    width: 60px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-top: 12px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ffffff; 
+}
+
+a:visited {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* .photo1 {
+    position: absolute;
+}
+
+.photo2 {
+    position: absolute;
+    
+   
+}
+
+.photo3 {
+    position: absolute;
+    
+   
+}
+
+.photo4 {
+    position: absolute;
+    
+    
+   
+}
+
+.photo5 {
+    position: absolute;
+    
+} */
+
+.text-block {
+    /* position: absolute; */
+    height: 35px;
+    width: 200px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    z-index: 7;
+    text-align: center;
+    padding-top: 15px;
+    margin: 0px;
+    bottom: 15px;
+} 
+
+
